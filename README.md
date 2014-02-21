@@ -1,4 +1,4 @@
 algorithms
 ==========
 
-all the alrorithms implemented by scala
+some alrorithms implemented by scala
